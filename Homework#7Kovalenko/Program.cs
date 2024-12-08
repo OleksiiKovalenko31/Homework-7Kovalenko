@@ -20,6 +20,7 @@ string inSymbol = " ";
 int inputNum = 0;
 string Gamer1 = "X" , Gamer2 = "O", Gamer = "", NameGamer = "";
 
+//Створюємо масив і малюємо поле
 string [,] GameArray = { { "1", "2", "3" }, {"4", "5", "6" }, { "7", "8", "9" } };
 while (true)
     
